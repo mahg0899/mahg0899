@@ -26,18 +26,18 @@
 
 ## 👨🏻‍💻 About me / Sobre mí:
 
-<h4>
+<p>
     [ENG] I'm currently studying autonomously, but I'm fully interesed in specializing in software development by studying Software Engineering at the Universidad Veracruzana, although I am interested in seeking new opportunities to demonstrate what I have learned autonomously.
-</h4>
-<h4>
+</p>
+<p>
     I am a person highly interested in technology, hence my passion for learning about technology and the globalized world we live in. I like reading, playing videogames and occasionally writing.
-</h4>
-<h4>
+</p>
+<p>
     [ESP] Actualmente me encuentro estudiando de manera autodidacta, pero estoy completamente interesado en especializarme en el desarrollo de software estudiando Ingeniería de Software en la Universidad Veracruzana, aunque me interesa buscar nuevas oportunidades para demostrar lo que he aprendido de esta manera.
-</h4>
-<h4>
+</p>
+<p>
     Soy una persona altamente interesada en la tecnología, de ahí mi pasión por aprender sobre la tecnología y el mundo globalizado en el que vivimos. Me gusta leer, jugar videojuegos y ocasionalmente escribir.
-</h4>
+</p>
 
 --- 
 
