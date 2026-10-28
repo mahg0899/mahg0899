@@ -12,6 +12,7 @@ I'm Alejandro Hernández (mahg) and this is my GitHub.
     <a href="https://instagram.com/mahg0899"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" target="_blanc"></a>
 </div>
 
-### ℹ️ Github info 
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahg0899&theme=dark&hide_border=false" alt="GitHub Strike"></p>
+<h3 align="center">
+    Come back later :P
+</h3>
+    I'm working on some private stuff... or just chilling with videogames and books. Who knows ¯\_(ツ)_/¯
